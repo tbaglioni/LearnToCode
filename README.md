@@ -1,2 +1,2 @@
 # LearnToCode
-Here we learn how to program
+Here I learn to program
