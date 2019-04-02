@@ -1,2 +1,6 @@
 - Learned to install GitHub, Node.js, Code, And to commit and push to GitHub
 - wacthed video about .js, 
+- Learned how to make a link in markdown
+- Learned the git typical workflow
+- Installed nodemon wrapper
+- Changed simpleindex.js to show a different message

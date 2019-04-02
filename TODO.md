@@ -1,7 +1,7 @@
 #TODO list
 
-* run simpleIndex.js with nodemon
-* change simpleIndex to show more/different messages
+* run simpleIndex.js with nodemon ✔
+* change simpleIndex to show more/different messages ✔
 
 * Install chalk from npmjs.com/nodejs/
 * Create a new file called chalkIndex.js in working folder (01 Getting ...)
