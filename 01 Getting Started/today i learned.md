@@ -1,0 +1,2 @@
+- Learned to install GitHub, Node.js, Code, And to commit and push to GitHub
+- wacthed video about .js, 
