@@ -4,3 +4,5 @@
 - Learned the git typical workflow
 - Installed nodemon wrapper
 - Changed simpleindex.js to show a different message
+- Learned a little about chalk and what it can do with messages 
+- 
