@@ -1,5 +1,7 @@
 #TODO list
 
+__*A*lways *B*e *C*oding !__
+
 ##TODO
 * run simpleIndex.js with nodemon ✔
 * change simpleIndex to show more/different messages ✔
