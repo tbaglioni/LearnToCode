@@ -11,3 +11,6 @@ log(chalk.blue('Hello') + ' World' + chalk.red('!'));
 
 console.log(chalk);
 console.log(chalk.green('let us try!'));
+
+console.log(chalk);
+console.log(chalk.blue('we tried'));
