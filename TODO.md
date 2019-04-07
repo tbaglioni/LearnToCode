@@ -2,6 +2,11 @@
 
 __*A*lways *B*e *C*oding !__
 
+##Recurring tasks
+* Clean up TODO list
+* Decide on what to learn next
+* Start cranking
+
 ##TODO
 * run simpleIndex.js with nodemon ✔
 * change simpleIndex to show more/different messages ✔
@@ -13,10 +18,6 @@ __*A*lways *B*e *C*oding !__
 * experiment with more messages
 
 * Read and solve tasks at W3Schools
-
-* Clean up TODO list
-* Decide on what to learn in session 2
-* Start cranking
 
 ##DONE
 * add gitignore file ✔ BJA
