@@ -14,5 +14,9 @@ __*A*lways *B*e *C*oding !__
 
 * Read and solve tasks at W3Schools
 
+* Clean up TODO list
+* Decide on what to learn in session 2
+* Start cranking
+
 ##DONE
 * add gitignore file ✔ BJA
