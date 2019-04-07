@@ -4,10 +4,13 @@ __*A*lways *B*e *C*oding !__
 
 ##Recurring tasks
 * Clean up TODO list
+* Move done tasks to DONE
 * Decide on what to learn next
 * Start cranking
 
 ##TODO
+* Watch this video [Stop Programmer Procrastination!](https://www.youtube.com/watch?v=JQdFSt7s-Zw)
+
 * run simpleIndex.js with nodemon ✔
 * change simpleIndex to show more/different messages ✔
 
