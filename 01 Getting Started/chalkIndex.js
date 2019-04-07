@@ -15,5 +15,5 @@ console.log(chalk.green('let us try!'));
 console.log(chalk);
 console.log(chalk.blue('we tried'));
 
-;; console.log(chalk);
-;; console.log(chalk.blue('we tried'));
+console.log(chalk);
+console.log(chalk.red('it works'));
