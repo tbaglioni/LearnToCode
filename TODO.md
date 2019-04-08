@@ -9,6 +9,7 @@ __*A*lways *B*e *C*oding !__
 * Start cranking
 
 ##TODO
+* https://www.youtube.com/watch?v=IHQ-UUj0bxs&list=LL6uLZ5DdTtWlb-69rdd9j4A&index=2&t=6s
 * Watch this video [Stop Programmer Procrastination!](https://www.youtube.com/watch?v=JQdFSt7s-Zw)
 * run it in nodemon
 * Read and solve tasks at W3Schools
