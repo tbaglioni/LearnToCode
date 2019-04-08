@@ -14,3 +14,9 @@
 ## misc
 * git status
 * git log
+
+## Learning strategies 
+* Active vs Passive learning ..  
+* Use Spacing
+* 
+*
