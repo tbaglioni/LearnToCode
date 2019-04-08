@@ -16,7 +16,8 @@
 * git log
 
 ## Learning strategies 
-* Active vs Passive learning ..  
-* Use Spacing
-* 
-*
+* 1st Sweetspot between Active and Passive learning 2h/1h ratio at the start, later 1h/1h
+* 2st Apply Spacing - spread learning in more daily short stages
+* 3rd Teaching/Reexplaining Concepts - teach, write blog, FB group post etc.
+* 4th Keep Track of all the things you have questions about - Textpad or google doc
+* 5th Rest and Recover - you need sleep that brain can recover and memorize, lack of sleep = lower IQ
