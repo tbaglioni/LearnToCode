@@ -1,16 +1,16 @@
-#typical git workflow
+# typical git workflow
 
-##add file to repository
+## add file to repository
 * git add -A
 * git commit -m"commit message"
 * git push 
 
-##fetch changes from repository
+## fetch changes from repository
 * git fetch
 
-##pull changes from repository
+## pull changes from repository
 * git pull
 
-##misc
+## misc
 * git status
 * git log
