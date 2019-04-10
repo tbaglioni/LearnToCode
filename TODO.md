@@ -11,7 +11,8 @@ __*A*lways *B*e *C*oding !__
 ## TODO
 * run it in nodemon
 * Read and solve tasks at W3Schools
-* Decide on what to learn in session 2
+* Decide on what to learn next
+* Break down chosen problem into managable tasks
 * Start cranking
 
 ## DONE
