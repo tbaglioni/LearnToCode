@@ -3,6 +3,8 @@
 __*A*lways *B*e *C*oding !__
 
 ## Recurring tasks
+* Clean up TODO list
+* Move done tasks to DONE
 * Decide on what to learn next
 * Start cranking
 
