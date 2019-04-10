@@ -5,3 +5,6 @@
 -- paste=ctrl+v
 -- comment out code=ctrl+K+C
 -- uncomment code=ctrl+K+U
+- Learned to create a webserver that reads a file
+- Learned to solve problems
+- 
