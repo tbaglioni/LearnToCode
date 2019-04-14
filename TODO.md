@@ -14,6 +14,7 @@ __*A*lways *B*e *C*oding !__
 * Decide on what to learn next
 * Break down chosen problem into managable tasks
 * Start cranking
+* https://www.youtube.com/watch?v=Kt3AuWZWUQ0
 
 ## DONE
 * add gitignore file ✔ BJA
