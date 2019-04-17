@@ -1,2 +1,3 @@
 - Learned a little about Date and Time objects would like to learn more of this.
+- Learned that my script should be in HTML and can be run also locally
 - 

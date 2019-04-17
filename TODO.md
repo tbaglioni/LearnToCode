@@ -9,6 +9,11 @@ __*A*lways *B*e *C*oding !__
 * Start cranking
 
 ## TODO
+* 
+* Compare Arrays and Variables
+* Make a NOTE about API
+* Read json.org 3 times and compare json examples
+* Find out what an API is
 * run it in nodemon
 * Read and solve tasks at W3Schools
 * Decide on what to learn next
