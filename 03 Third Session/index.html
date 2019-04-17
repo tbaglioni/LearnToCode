@@ -5,16 +5,19 @@
 </head>
 <body>
 <script>
-    var days = ["SUN","MON","TUE","WED","THU","FRI","SAT"];
+    const days = ["SUN","MON","TUE","WED","THU","FRI","SAT"];
+    const months = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC", ];
+
     function update(){
         var d = new Date ();
-        output.innerHTML = 'Year - '+d.getFullYear()+'<br>';
-        output.innerHTML += 'Month - '+d.getMonth()+'<br>';
-        output.innerHTML += 'Date(in month) - '+d.getDate()+'<br>';
-        output.innerHTML += 'Day of Week - '+days[d.getDay()]+'<br>';
-        output.innerHTML += 'Hour - '+d.getHours()+'<br>';
-        output.innerHTML += 'Minute - '+d.getMinutes()+'<br>';
-        output.innerHTML += 'Second - '+d.getSeconds();
+        output.innerHTML = 'Year - ' + d.getFullYear()+'<br>';
+        output.innerHTML += 'Month - ' + d.getMonth()+'<br>';
+        output.innerHTML += 'Date(in month) - ' + months[d.getMonth()]+'<br>';
+        output.innerHTML += 'Day of Week - ' + days[d.getDay()]+'<br>';
+        output.innerHTML += 'Hour - ' + d.getHours()+'<br>';
+        output.innerHTML += 'Minute - ' + d.getMinutes()+'<br>';
+        output.innerHTML += 'Second - ' + d.getSeconds();
+        //output.innerHTML = d.getDate()
     }
     window.addEventListener( "load",function(){
         setInterval( update, 1000 );
