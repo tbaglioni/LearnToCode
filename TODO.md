@@ -9,7 +9,7 @@ __*A*lways *B*e *C*oding !__
 * Start cranking
 
 ## TODO
-* 
+* Build a eebserver that appends to a text file what the user enters as URL parameter content (ie. .../?content=user enters input here )
 * Compare Arrays and Variables
 * Make a NOTE about API
 * Read json.org 3 times and compare json examples
