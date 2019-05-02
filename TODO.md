@@ -6,20 +6,14 @@ __*A*lways *B*e *C*oding !__
 * Clean up TODO list
 * Move done tasks to DONE
 * Decide on what to learn next
+* Break down chosen problem into managable tasks
 * Start cranking
 
 ## TODO
-* Build a webserver that appends to a text file what the user enters as URL parameter content (ie. .../?content=user enters input here )
-* Compare Arrays and Variables
-* Make a NOTE about API
-* Read json.org 3 times and compare json examples
+* Watch 2 videos about json examples
+* Read json.org and compare with one json examples
 * Find out what an API is
-* run it in nodemon
 * Read and solve tasks at W3Schools
-* Decide on what to learn next
-* Break down chosen problem into managable tasks
-* Start cranking
-* https://www.youtube.com/watch?v=Kt3AuWZWUQ0
 
 ## DONE
 * add gitignore file ✔ BJA
@@ -33,3 +27,6 @@ __*A*lways *B*e *C*oding !__
 * experiment with more messages ✔
 * [Learning Strategies for Programmers!](https://www.youtube.com/watch?v=IHQ-UUj0bxs&list=LL6uLZ5DdTtWlb-69rdd9j4A&index=2&t=6s) ✔
 * Watch this video [Stop Programmer Procrastination!](https://www.youtube.com/watch?v=JQdFSt7s-Zw) ✔
+* Build a webserver that appends to a text file what the user enters as URL parameter content (ie. .../?content=user enters input here )✔
+* Compare Arrays and Variables✔
+* Make a NOTE about API✔
