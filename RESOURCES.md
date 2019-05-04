@@ -5,6 +5,7 @@
 * [Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh](https://www.youtube.com/watch?v=TlB_eWDSMt4)
 * [JavaScript Date Time Object Tutorial](https://www.youtube.com/watch?v=Kt3AuWZWUQ0)
 * [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
+* [VS Code Keyboard shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
 ## MUSIC
 * [5 Hours of Relaxing Psychedelic Space Rock - Travel Dos](https://www.youtube.com/watch?v=ors0wpcVDcc)
