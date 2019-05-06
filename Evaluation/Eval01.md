@@ -1,12 +1,12 @@
 # Mentee => Mentor
 
-As a mentee I ...
-* More of ...
-    * this
-    * that
+As a mentee I would like to get acknolegd when good work is done.
+As a mentee I would like to get more cudos
+As a mentee I would like to 
+
 * Less of ...
-    * this
-    * that
+    * ???
+    * ???
 
 
 ---
