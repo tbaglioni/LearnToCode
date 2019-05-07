@@ -7,7 +7,9 @@ __*A*lways *B*e *C*oding !__
 * Move done tasks to DONE
 * Decide on what to learn next
 * Break down chosen problem into managable tasks
+* Remember good communication
 * Start cranking
+
 
 ## TODO
 * Watch 2 videos about json examples
