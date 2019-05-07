@@ -2,12 +2,12 @@
 
 As a mentee I would like to get acknolegd when good work is done.
 As a mentee I would like to get more cudos
-As a mentee I would like to 
+As a mentee I would like to keep learning
 
 * Less of ...
-    * ???
-    * ???
-
+    * miscommunication
+    * instability
+    * excuses
 
 ---
 
