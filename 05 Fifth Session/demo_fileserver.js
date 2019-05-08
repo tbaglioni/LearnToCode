@@ -4,6 +4,7 @@ var fs = require('fs');
 
 http.createServer(function (req, res) {
   var q = url.parse(req.url, true);
+  console.log(q);
   var filename = "." + q.pathname;
   fs.readFile(filename, function(err, data) {
     if (err) {
