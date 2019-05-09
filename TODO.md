@@ -13,6 +13,7 @@ __*A*lways *B*e *C*oding !__
 
 ## TODO
 * Watch 2 videos about json examples
+* Watch this video https://www.youtube.com/watch?v=A0hoqSkyY7o
 * Read json.org and compare with one json examples
 * Find out what an API is and describe it in API.md-file
 * Read and solve tasks at W3Schools
