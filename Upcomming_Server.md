@@ -10,5 +10,8 @@ Ja jeg skal have brudt opgaven ned i mindre sektioner så det er nemmere at over
 1. Opret server
 2. Læse alle filer i en bestemt mappe
 3. Kopiere alle filerne til en anden mappe
-4. Evt tage kopi af alle filerne og samtidig ligge dem op i skyen
+4. Evt tage kopi af alle filerne og samtidig lægge dem op i skyen
 5. ?
+
+Brian: Udmærket plan.
+Brian: Tænk over hvordan/hvornår kopieringen skal starte. Ved start af serveren ? Et klik på en knap ? Overvågning af ændringer i source mappen ?
