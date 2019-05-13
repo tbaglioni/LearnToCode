@@ -12,11 +12,13 @@ __*A*lways *B*e *C*oding !__
 
 
 ## TODO
-* Watch 2 videos about json examples
+* Find a video about imposter syndrome wtch 3-4 videos and choose the best
+* Watch 2 videos about json examples (watched one)
 * Watch this video https://www.youtube.com/watch?v=A0hoqSkyY7o
+* Read and solve tasks at W3Schools 
 * Read json.org and compare with one json examples
 * Find out what an API is and describe it in API.md-file
-* Read and solve tasks at W3Schools
+* Resaerch how a button work
 
 ## DONE
 * add gitignore file ✔ BJA

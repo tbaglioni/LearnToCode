@@ -1,0 +1,2 @@
+* Me and Brian showed our version of a backup server. Brians was exelent I must say. I completed the task with poor coding.
+* Have read about JSON and has visualized the train station its very complex and will need to learn more of this topic.
