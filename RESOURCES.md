@@ -6,6 +6,7 @@
 * [JavaScript Date Time Object Tutorial](https://www.youtube.com/watch?v=Kt3AuWZWUQ0)
 * [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
 * [VS Code Keyboard shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+* [What Makes A Great Programmer? 10 Characteristics](https://www.youtube.com/watch?v=OwW0_7p_j84)
 
 ## MUSIC
 * [5 Hours of Relaxing Psychedelic Space Rock - Travel Dos](https://www.youtube.com/watch?v=ors0wpcVDcc)
