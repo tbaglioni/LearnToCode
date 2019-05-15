@@ -1,16 +1,22 @@
 var nodemailer = require('nodemailer');
+var fs = require('fs');
+var credentialsPath = './credentials.json';
+var parsedCredentials = JSON.parse(fs.readFileSync(credentialsPath, 'UTF-8'));
 
 var transporter = nodemailer.createTransport({
-  service: 'gmail',
+  pool: parsedCredentials.pool,
+  host: parsedCredentials.host,
+  port: parsedCredentials.port,
+  secure: parsedCredentials.secure, 
   auth: {
-    user: 'trbaglioni@gmail.com',
-    pass: 'PierinaRiboldi0801'
+    user : parsedCredentials.auth.user,
+    pass : parsedCredentials.auth.pass
   }
 });
 
 var mailOptions = {
-  from: 'trbaglioni@gmail.com',
-  to: 'brianmanden@gmail.com',
+  from: parsedCredentials.mailOptions.from,
+  to: parsedCredentials.mailOptions.to,
   subject: 'Sending Email using Node.js',
   text: 'That was easy!'
 };
