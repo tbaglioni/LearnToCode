@@ -13,7 +13,6 @@ __*A*lways *B*e *C*oding !__
 
 ## TODO
 * Find a video about imposter syndrome wtch 3-4 videos and choose the best
-* Read and solve tasks at W3Schools 
 * Find out what an API is and describe it in API.md-file
 * Resaerch how a button work
 
@@ -35,3 +34,4 @@ __*A*lways *B*e *C*oding !__
 * Make a NOTE about API✔
 * Watch this video https://www.youtube.com/watch?v=A0hoqSkyY7o✔
 * Read json.org and compare with one json examples✔
+* Read and solve tasks at W3Schools✔
